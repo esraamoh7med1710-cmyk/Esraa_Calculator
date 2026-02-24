@@ -1,4 +1,7 @@
-# Esraa Calculator
+
+# Esraa Calculator 
+
+![Esraa_Calculator py py-VisualStudioCode2026-02-2410-02-20-Copy-ezgif com-optimize](https://github.com/user-attachments/assets/61b973af-54f5-434b-bab6-a0cfcc4f4fb0) 
 
 A simple Python calculator project.
 
@@ -9,4 +12,6 @@ A simple Python calculator project.
 - Division
 - Handles division by zero
 - Validates user input
-vv![Esraa_Calculator py py-VisualStudioCode2026-02-2415-22-38-ezgif com-optimize](https://github.com/user-attachments/assets/48c8bb8b-24be-4b14-b733-46cd59e09753)
+
+  
+
