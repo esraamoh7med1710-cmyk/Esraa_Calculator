@@ -11,13 +11,13 @@ while True:
  elif op=="*":
     print("Result is:",num1*num2)
  elif op=="/":
+  if num2!=0:
     print("Result is:",num1/num2)
- if num2!=0:
-    print("Result is:",num1/num2)
- else:
+  else:
     print("Error!Divission by zero")
     
     
     
     
   
+
