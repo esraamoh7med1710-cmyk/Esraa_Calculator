@@ -15,9 +15,13 @@ while True:
     print("Result is:",num1/num2)
   else:
     print("Error!Divission by zero")
+ else:
+    print("Invalid operation")
+  
     
     
     
     
   
+
 
